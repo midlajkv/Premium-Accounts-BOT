@@ -482,5 +482,4 @@ async def broadcast_message(_, message):
     await m.edit(f"**Broadcasted Message In {sent} Chats.**")
 
 
-bot = app()
-bot.run()
+app.run()
