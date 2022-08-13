@@ -13,7 +13,7 @@ An advance telegram giveaway bot based on pyrogram with mongo database.powered b
 - All admin commands.
 - And more...
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul/Premium-Accounts-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midlajkv/Premium-Accounts-BOT.git)
  
  
  ##### Bot Admin : @ImJanith
