@@ -7,7 +7,7 @@
         "accounts",
         "Pyrogram bot"
     ],
-    "repository": "https://github.com/szsupunma",
+    "repository": "https://github.com/midlajkv/Premium-Accounts-BOT.git",
     "website": "https://supun.ml",
     "success_url": "https://t.me/MafiaPremiumAccBot",
     "env": {
